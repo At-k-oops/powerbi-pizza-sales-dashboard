@@ -1,14 +1,16 @@
 🍕 Pizza Sales Analysis Dashboard (Power BI)
 📌 Project Overview
 
-This project is a Power BI end-to-end data analytics dashboard built using a pizza sales dataset.
+This project is a **Power BI end-to-end data analytics dashboard** built using a pizza sales dataset.
 The goal of this project is to clean raw data, extract meaningful business insights, create accurate measures, and visualize them in a clear and impactful dashboard.
 
 The dashboard helps understand sales performance, customer ordering behavior, revenue contribution, and trends over time.
 
+---
+
 🧹 Data Cleaning & Preparation
 
-All data cleaning was performed inside Power BI (Power Query Editor):
+All data cleaning was performed inside **Power BI (Power Query Editor)**:
 
 Removed null and inconsistent values
 
@@ -17,6 +19,9 @@ Corrected data types (dates, numbers, categories)
 Created calculated columns where required
 
 Ensured proper relationships between tables
+
+---
+
 
 📊 Key Measures & KPIs Created
 
@@ -38,6 +43,9 @@ Most Ordered Pizza
 
 Top Pizza Revenue & Quantity
 
+---
+
+
 📈 Dashboard Insights
 
 The dashboard provides answers to important business questions:
@@ -54,11 +62,18 @@ The dashboard provides answers to important business questions:
 
 🍕 Category & size contribution to overall sales
 
+---
+
+
 🖥️ Dashboard Preview
 
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-31 012903" src="https://github.com/user-attachments/assets/309a092c-e03d-4356-b388-be761f2e952e" />
 
+---
+<img width="1180" height="664" alt="Screenshot 2026-01-31 012801" src="https://github.com/user-attachments/assets/c64830c1-d9f7-4250-8dfa-f295f3d0e5e2" />
+
+---
 
 
 🛠 Tools & Technologies Used
@@ -73,6 +88,10 @@ Data Modeling
 
 Data Visualization Best Practices
 
+
+---
+
+
 🎯 Skills Demonstrated
 
 Data Cleaning & Transformation
@@ -84,3 +103,10 @@ Analytical Thinking
 Business Insight Generation
 
 Dashboard Design & Storytelling
+
+---
+
+👤 Author
+
+Atharva Khare
+📊 Aspiring Data Analyst | Power BI Enthusiast
